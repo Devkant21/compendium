@@ -2,7 +2,7 @@
 title: "CPU"
 date: 'September 22, 2022'
 excerpt: 'Central Processing Unit (CPU) or the processor is also often called the brain of computer'
-cover_image: 'images/posts/img1.jpg'
+cover_image: 'images/posts/CPU.png'
 ---
 
 ## Central Processing Unit [CPU]
