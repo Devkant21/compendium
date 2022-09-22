@@ -1,9 +1,10 @@
 ---
-title: "ALU"
+title: "Arithmetic Logic Unit"
 date: 'September 22 2022'
-excerpt: 'Arithmetic Logic Unit'
-cover_image: 'images/posts/img1.jpg'
+excerpt: 'ALU performs arithmetic and logic operations, and uses registers to hold the data that is being processed'
+cover_image: 'images/posts/ALU.png'
 ---
+
 
 1. ALU consists of two units—arithmetic unit and logic unit.
     - The arithmetic unit performs arithmetic operations on the data that is made available to it.
