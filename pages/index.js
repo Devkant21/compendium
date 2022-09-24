@@ -2,15 +2,22 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import Head from 'next/head'
+// import Header from "../components/Header"
 import Post from '../components/Post'
 import { sortByDate } from '../utils'
+// import Navbar from '../components/Navbar'
 
 export default function Home({ posts }) {
   return (
     <div>
       <Head>
         <title>Compendium</title>
+        <meta name="description" content="Resources of CSE" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
+      {/* <Header /> */}
+      {/* <Navbar /> */}
+            
 
       <div className='posts'>
         {posts.map((post, index) => (
