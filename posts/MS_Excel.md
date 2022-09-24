@@ -6,7 +6,14 @@ cover_image: 'images/posts/Excel.png'
 ---
 **The following table gives year-wise sale figures of five salesmen in Rs.**
 
-
+        |   Salesman     |   2004     |   2005     |    2006     |    2007     |
+        ------------------------------------------------------------------------
+        |   Salesman 1   |   10000    |   12000    |    20000    |    50000    |
+        |   Salesman 2   |   15000    |   18000    |    50000    |    60000    |
+        |   Salesman 3   |   20000    |   22000    |    70000    |    70000    |
+        |   Salesman 4   |   30000    |   30000    |    100000   |    80000    |
+        |   Salesman 5   |   40000    |   45000    |    125000   |    90000    |
+        
 
 - Calculate total sale year-wise.
 - Calculate the net sales made by each salesman.
