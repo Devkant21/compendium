@@ -7,13 +7,14 @@ cover_image: 'images/posts/Loopers.jpg'
 ---
 
 Loops are of 3 types :
-    1. While loop
-    2. Do while loop
-    3. For loop
+    - 1. While loop
+    - 2. Do while loop
+    - 3. For loop
 
     1. While loop :
 
-                A while loop is used to execute and repeat a statement block depending on a condition which is evaluated at the beginning of the loop.
+                A while loop is used to execute and repeat a statement block depending on 
+                a condition which is evaluated at the beginning of the loop.
 
 
         Syntax for while loop -
@@ -32,7 +33,8 @@ Loops are of 3 types :
 
     2. Do while loop :
 
-                    A do-while loop is used to execute and repeat a statement block depending on a condition which is evaluated at the end of the loop.
+                    A do-while loop is used to execute and repeat a statement block depending 
+                    on a condition which is evaluated at the end of the loop.
 
      Syntax for do while loop -
                                     do {
@@ -50,7 +52,8 @@ Loops are of 3 types :
 
     3. For loop :
 
-                A for loop is used to execute and repeat a statement block depending on a condition which is evaluated at the beginning of the loop.
+                A for loop is used to execute and repeat a statement block depending 
+                on a condition which is evaluated at the beginning of the loop.
 
     Syntax for For loop -
 
