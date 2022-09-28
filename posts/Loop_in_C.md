@@ -6,10 +6,10 @@ excerpt: 'Loops are required to run a particular codebase in order to execute a 
 cover_image: 'images/posts/Loopers.jpg'
 ---
 
-Loops are of 3 types :
-    - 1. While loop
-    - 2. Do while loop
-    - 3. For loop
+Loops are of 3 types 
+ -     1. While loop
+ -     2. Do while loop
+ -     3. For loop
 
     1. While loop :
 
