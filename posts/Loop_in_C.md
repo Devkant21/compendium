@@ -11,7 +11,7 @@ Loops are of 3 types
  -     2. Do while loop
  -     3. For loop
 
-    1. While loop :
+        1. While loop :
 
                 A while loop is used to execute and repeat a statement block depending on 
                 a condition which is evaluated at the beginning of the loop.
@@ -31,7 +31,7 @@ Loops are of 3 types
 
 
 
-    2. Do while loop :
+        2. Do while loop :
 
                     A do-while loop is used to execute and repeat a statement block depending 
                     on a condition which is evaluated at the end of the loop.
@@ -50,7 +50,7 @@ Loops are of 3 types
                                     } while(a < 20);
 
 
-    3. For loop :
+        3. For loop :
 
                 A for loop is used to execute and repeat a statement block depending 
                 on a condition which is evaluated at the beginning of the loop.
