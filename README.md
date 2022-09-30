@@ -27,11 +27,11 @@ npm run build
 1. Fork the repository
 2. Clone the repository
     ```
-    git clone https://github.com/Devkant21/Javascript
+    git clone https://github.com/Devkant21/compendium.git
     ```
 3. Open your branch in your name (preferably)
     ```
-    git checkout -b devkant
+    git checkout -b <branch_name>
     ```
 4. Add your changes
     ```
@@ -39,7 +39,7 @@ npm run build
     ```
     >example : 
     ```
-    git add Lecture-1.js
+    git add README.md
     ```
 5. Add the commit message
     ```
@@ -55,18 +55,37 @@ npm run build
     ```
 **The following are the list of topics :**
 
-1. [Basics](Lecture-1.js)
-    - Keywords : var, let, const
-    - sum of two numbers
-    - Multiplication of two numbers
-2. [Conditionals](Lecture-2.js)
-    - Conditionals (if else, switch case)
+***1. Access-Types-of-Storage-Device***
+
+***2. ALU***
+
+***3. Arrays in C***
+
+***4. Cache Memory***
+
+***5. Computer System Hardware***
+
+***6. CPU***
+
+***7. Loop in C***
+
+***8. MS Excel***
+
+***9. MS Powerpoint***
+
+***10. MS Word***
+
+***11. Primary and Secondary Memory***
+
+***12. RAM***
+
+***13. Registers***
 
 
-## Contributors :
+## **Contributors :**
 
-1. [Devkant Swargiary](https://github.com/Devkant21/)
-2. [Washiul Islam](https://github.com/Rashob)
+1. ***[Devkant Swargiary](https://github.com/Devkant21/)***
+2. ***[Washiul Islam](https://github.com/Rashob)***
 
 
 
