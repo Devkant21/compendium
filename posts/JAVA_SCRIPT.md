@@ -3,30 +3,30 @@ title: " Variables and Data in JAVA SCRIPT"
 date: 'October 08 2022'
 author: "Washiul Islam"
 excerpt: 'Variables and Data'
-cover_image: 'images/posts/javascript.png'
+cover_image: 'images/posts/js.png'
 ---
 
 ## **Variables and Data**
 
-<h2>Just like we follow some rules while speaking english (the grammar), we have some rules to follow while writing a javascript program. The set to follow while writing a javascript program. The set of these rules is called syntax in javascript</h2>
+<h4>Just like we follow some rules while speaking english (the grammar), we have some rules to follow while writing a javascript program. The set to follow while writing a javascript program. The set of these rules is called syntax in javascript</h4>
 <br>
 <h2><b>What is a Variable? </b></h2>
-<h2>A variable is a container that stores a value. This is very similar to the containers used to store rice,water and oats. (Treat this as a analogy!).
+<h4>A variable is a container that stores a value. This is very similar to the containers used to store rice,water and oats. (Treat this as a analogy!).
 <br>
 The value of a javasript variable can be changed during the execution of a program.
 <br>
 var a = 7; <br>
 let a = 7; ---- Declaring variables
-</h2>
+</h4>
 <br>
 
-<h1><b>Rules for choosing a variable name----> </b> </h1>
+<h1><b>Rules for choosing a variable name----> </b> </h1><br>
 <h4><b>Letters,digits,underscores and $ sign are allowed. <br><br>
 Must begin with a $,_or a letter. <br><br>
 Javascript reserved words cannot be used as a variable name. <br><br>
 Harry & harry are different variables (case sensitive).</b></h4>
 <br><br><br>
-<h1><b>Var vs Let in Java script </b></h1>
+<h1><b>Var vs Let in Java script </b></h1><br>
 <h4><b>Var is globally scoped while let and const are block scoped. <br><br>
 Var can be upated and re-decleared within its scope.<br><br>
 Let can be updated but not re-decleared. <br><br>
