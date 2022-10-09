@@ -3,8 +3,7 @@ title: " Variables and Data in JAVA SCRIPT"
 date: 'October 08 2022'
 author: "Washiul Islam"
 excerpt: 'Variables and Data'
-cover_image:'public\images\posts\js.png'
-
+cover_image:'images/posts/js.png'
 ---
 
 ## **Variables and Data**
