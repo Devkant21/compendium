@@ -1,19 +1,19 @@
 ---
-title: "Expressions and operators in Java Scripts"
-date: 'September 22 2022'
+title: "Expressions and operators in JavaScripts"
+date: 'October 10 2022'
 excerpt: 'Arithmatic Operator,Assignment Operator,Logical Operator and comments'
 cover_image: 'images/posts/js.png'
 ---
-## **Expression and Operators in Java Script**  
+## **Expression and Operators in JavaScript**  
 <br> 
 
-## Expression in Java Script
+## Expression in JavaScript
 <br>
 A fragment of code that produces a value is called an expression. Every value written literally is an expression. For eg. 77 or "Harry"
 
 <br>
 
-## Operators in Java Script
+## Operators in JavaScript
 <br>
 
 - **Arithmatic operator**
@@ -81,12 +81,12 @@ Apart from these, we also have type and bitwise operators. Bitwise operators per
    <br> "+" is operator "15" is result
 <br><br>
 
-## Comments in Java Script
+## Comments in JavaScript
 <br>
 
 Sometiimes we want our programs to contain a text which is not executed by the JS engine. <br>
-Such a text is called comment in Java Scrit. <br>
-A comment in java script can be written as follows: <br>
+Such a text is called comment in JavaScrit. <br>
+A comment in javascript can be written as follows: <br>
 let a=2; //this is a single line comment.
 <br>
 /*<br>
