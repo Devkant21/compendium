@@ -6,6 +6,8 @@ excerpt: 'Variables and Data'
 cover_image: 'images/posts/js.png'
 
 ---
+[**Click here to access Javascript repository**](https://github.com/Devkant21/Javascript)
+<br>
 
 ## **Variables and Data**
 
@@ -16,8 +18,9 @@ cover_image: 'images/posts/js.png'
 <br>
 The value of a JavaScript variable can be changed during the execution of a program.
 <br>
-var a = 7; <br>
-let a = 7; ---- Declaring variables
+
+            var a = 7; 
+            let a = 7; ---- Declaring variables
 </h4>
 <br><br>
 
@@ -47,17 +50,20 @@ Const must be initialized during declaration unlike let and var.</b></h4>
 **Primitive data types are a set of basic data types in javascript.** <br><br>
  Object is a non-primitive datatype in JavaScript. <br><br>
 <p> <b>There are the 7 primitive datatypes in JavaScript</b></h2> <br>
-1. Number <br>
-2. Null <br>
-3. String <br>
-4.Symbol <br>
-5.Undefined <br>
-6.Boolean <br>
-7.Big Int<br><br><br>
+
+1. **Number** <br>
+2. **Null** <br>
+3. **String** <br>
+4. **Symbol** <br>
+5. **Undefined** <br>
+6. **Boolean** <br>
+7. **Big Int**
+<br><br><br>
 
 ## **Objects**
 An object in JavaScript can be created as follows- <br><br>
-const item = {<br>
-                name:"led"<br>
-                price:"155"<br>
-                             }
+
+            const item = {
+                name:"led"
+                price:"155"
+                          }
