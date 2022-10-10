@@ -1,5 +1,5 @@
 ---
-title: " Variables and Data in JAVA SCRIPT"
+title: " Variables and Data in JAVASCRIPT"
 date: 'October 08 2022'
 author: "Washiul Islam"
 excerpt: 'Variables and Data'
