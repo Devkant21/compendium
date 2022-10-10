@@ -12,6 +12,7 @@ cover_image: 'images/posts/js.png'
 A fragment of code that produces a value is called an expression. Every value written literally is an expression. For eg. 77 or "Harry"
 
 <br>
+<br>
 
 ## Operators in JavaScript
 <br>
@@ -91,11 +92,11 @@ let a=2; //this is a single line comment.
 <br>
 /*<br>
 I am a <br>
-muktiline comment<br>
+multiline comment<br>
 */ 
 <br>
 Sometimes comments are used to prevent the execution of some lines of code <br>
 let switch = true;
 <br>
-// switch = false; ---- commented line wont execute.
+// switch = false; ---- commented line won't execute.
 <br><br>
