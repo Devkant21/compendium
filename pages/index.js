@@ -14,6 +14,9 @@ export default function Home({ posts }) {
         <title>Compendium</title>
         <meta name="description" content="Resources of CSE" />
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4902109357091216"
+        crossorigin="anonymous">
+        </script>
       </Head>
       {/* <Header /> */}
       {/* <Navbar /> */}
